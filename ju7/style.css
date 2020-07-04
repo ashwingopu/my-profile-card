@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@1,600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    background: linear-gradient(to top,red 0%,orange);
+}
+#playz{
+    background-color: aqua;
+    margin: 100px 300px 100px 300px;
+    text-align: center;
+    padding: 20px;
+}
+hr
+{
+    width: 50%
+    margin-left: 25%
+    }
+    #playz img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
